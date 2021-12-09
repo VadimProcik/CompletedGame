@@ -1,0 +1,8 @@
+Doggy Cross
+
+Dawid: 	Level 1,2,3 map, Boundary, Life count, power ups, prefabs,
+	spawn manager, losing screen, complete screen, collision detection,
+	level advancing.
+
+Vadims: Level 1, Movement, Main Menu,  Background music, button click noise,
+	pause screen, instruction menu, logo
