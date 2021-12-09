@@ -6,6 +6,6 @@ public class OpenLink : MonoBehaviour
 {
     public void OpenSource()
     {
-        Application.OpenURL("https://github.com/Dawidoww/Doggy-Cross");
+        Application.OpenURL("https://github.com/VadimProcik/CompletedGame.git");
     }
 }
